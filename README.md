@@ -8,7 +8,7 @@
 ## **Find me on the web:**
 
   * Email: clare.jackson.codes@gmail.com
-  * Linkedin: https://www.linkedin.com/in/clare-jackson-codes/Here 
+  * Linkedin: https://www.linkedin.com/in/clare-jackson-codes/
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
