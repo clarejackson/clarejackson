@@ -1,4 +1,4 @@
-### Hi there, I'm Clare 👋
+### **Hi there, I'm Clare 👋**
 
 ![Sun](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/65/sun-with-face_1f31e.png)
 ## I am ready for work! It will always be my passion to work in service to and with great people. With experience in Full-Stack development, data structures, IT Support, and DevOps principles, I believe I am a great cadidate to any organization in need of an enthusiastic teammate.
